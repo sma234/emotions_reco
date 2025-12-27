@@ -5,12 +5,6 @@ The face recognision happend through the computers webcam using OpenCV for face 
 Model file:
 emotion_model.h5
 
-Project Structure
-|-- main.py
-|--emotion_model.h5
-|--faces/ 
-|--README.md
-
 Installation:
 
 pip install opencv-python opencv-contrib-python tensorflow numpy
